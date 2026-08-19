@@ -55,10 +55,10 @@
   "schema_version": 5,
   "seen_ea_disclaimer": true,
   "skip_intro_logo": false,
-  "target_display": 1,
+  "target_display": 0,
   "volume_ambience": 0.87,
   "volume_bgm": 0.88,
-  "volume_master": 0.87,
+  "volume_master": 0.53999996,
   "volume_sfx": 0.88,
   "vsync": "adaptive",
   "window_position": {
