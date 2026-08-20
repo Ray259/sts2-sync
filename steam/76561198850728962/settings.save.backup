@@ -19,7 +19,7 @@
   },
   "controller_mapping_type": "default",
   "fps_limit": 60,
-  "fullscreen": true,
+  "fullscreen": false,
   "keyboard_mapping": {
     "ui_accept": "E",
     "ui_select": "Enter",
@@ -62,11 +62,11 @@
   "volume_sfx": 0.88,
   "vsync": "adaptive",
   "window_position": {
-    "X": -1,
-    "Y": -1
+    "X": 4,
+    "Y": 65
   },
   "window_size": {
-    "X": 1920,
-    "Y": 1080
+    "X": 1280,
+    "Y": 800
   }
 }
