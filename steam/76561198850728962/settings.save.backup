@@ -18,7 +18,7 @@
     "mega_pause_and_back": "controller_start_button"
   },
   "controller_mapping_type": "default",
-  "fps_limit": 60,
+  "fps_limit": 59,
   "fullscreen": false,
   "keyboard_mapping": {
     "ui_accept": "E",
@@ -62,11 +62,11 @@
   "volume_sfx": 0.88,
   "vsync": "adaptive",
   "window_position": {
-    "X": 4,
-    "Y": 65
+    "X": 0,
+    "Y": 23
   },
   "window_size": {
-    "X": 1280,
-    "Y": 800
+    "X": 1920,
+    "Y": 1057
   }
 }
