@@ -4,7 +4,7 @@
   "mute_in_background": false,
   "phobia_mode": false,
   "schema_version": 2,
-  "screenshake": 4,
+  "screenshake": 1,
   "show_card_indices": true,
   "show_mp_drawings": true,
   "show_run_timer": false,
