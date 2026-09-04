@@ -62,11 +62,11 @@
   "volume_sfx": 0.88,
   "vsync": "adaptive",
   "window_position": {
-    "X": 83,
-    "Y": 94
+    "X": 10,
+    "Y": 67
   },
   "window_size": {
-    "X": 1600,
-    "Y": 900
+    "X": 1219,
+    "Y": 797
   }
 }

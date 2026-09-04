@@ -4090,7 +4090,10 @@
     "RELIC.BEATING_REMNANT",
     "RELIC.GLASS_EYE",
     "RELIC.VITRUVIAN_MINION",
-    "RELIC.EMBER_TEA"
+    "RELIC.EMBER_TEA",
+    "RELIC.MUMMIFIED_HAND",
+    "RELIC.SWORD_OF_JADE",
+    "RELIC.GAMBLING_CHIP"
   ],
   "enable_ftues": false,
   "encounter_stats": [
@@ -4525,7 +4528,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 2
+          "wins": 3
         },
         {
           "character": "CHARACTER.REGENT",
@@ -4550,7 +4553,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 2
+          "wins": 3
         },
         {
           "character": "CHARACTER.SILENT",
@@ -4565,7 +4568,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 4
+          "wins": 5
         },
         {
           "character": "CHARACTER.SILENT",
@@ -4590,7 +4593,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 1,
-          "wins": 1
+          "wins": 2
         },
         {
           "character": "CHARACTER.SILENT",
@@ -6452,7 +6455,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 2
+          "wins": 3
         },
         {
           "character": "CHARACTER.REGENT",
@@ -6477,7 +6480,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 2
+          "wins": 3
         },
         {
           "character": "CHARACTER.SILENT",
@@ -6492,7 +6495,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 4
+          "wins": 5
         },
         {
           "character": "CHARACTER.SILENT",
@@ -6517,7 +6520,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 4
+          "wins": 5
         },
         {
           "character": "CHARACTER.REGENT",
@@ -6562,7 +6565,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 0,
-          "wins": 4
+          "wins": 5
         },
         {
           "character": "CHARACTER.SILENT",
@@ -6582,7 +6585,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 1,
-          "wins": 1
+          "wins": 2
         },
         {
           "character": "CHARACTER.SILENT",
@@ -6607,7 +6610,7 @@
         {
           "character": "CHARACTER.IRONCLAD",
           "losses": 1,
-          "wins": 1
+          "wins": 2
         },
         {
           "character": "CHARACTER.SILENT",
