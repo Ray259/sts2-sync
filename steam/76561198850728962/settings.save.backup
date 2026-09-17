@@ -55,18 +55,18 @@
   "schema_version": 5,
   "seen_ea_disclaimer": true,
   "skip_intro_logo": false,
-  "target_display": 0,
+  "target_display": 1,
   "volume_ambience": 0.87,
   "volume_bgm": 0.88,
   "volume_master": 0.53999996,
   "volume_sfx": 0.88,
   "vsync": "adaptive",
   "window_position": {
-    "X": 177,
-    "Y": 166
+    "X": 122,
+    "Y": 31
   },
   "window_size": {
-    "X": 1122,
-    "Y": 683
+    "X": 1615,
+    "Y": 1048
   }
 }
